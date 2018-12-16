@@ -1,6 +1,7 @@
 # vue-advanced-component
 
 > A Vue.js project
+SOME PRACTICE WRITING ADVANCED COMPONENTS
 
 ## Build Setup
 
